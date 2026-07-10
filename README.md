@@ -22,4 +22,3 @@ Running unRAID serving as a storage server for the homelab. In an emergency, it 
 | Preview | Product Name | Component Specifications & Notes |
 | :---: | :--- | :--- |
 | ![Cable](https://m.media-amazon.com/images/I/51SK0aIAJhL._SL1008_.jpg) | [H!Fiber.com 2 Pack 10G SFP+ DAC Cable 2M](https://a.co){:target="_blank"} | Twinax passive network patch link assemblies<br>• *One for unRAID server and one for storage server* |
-| ![PSU](https://m.media-amazon.com/images/I/71BtdBtKX5L._AC_SL1500_.jpg) | [Thermaltake Toughpower GX2 600W ATX PSU](https://a.co){:target="_blank"} | 80+ Gold certified continuous power delivery unit |
