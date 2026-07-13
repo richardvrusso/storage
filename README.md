@@ -22,7 +22,7 @@ Running unRAID serving as a storage server for the homelab. In an emergency, it 
 
 | Preview | Product Name | Component Specifications & Notes |
 | :---: | :--- | :--- |
-| ![Chassis](https://m.media-amazon.com/images/I/71N-wFv099L._AC_SL1500_.jpg) | [Rosewill 4U Server Chassis 9 Bay Server Case](https://a.co/d/08OKxhuC){:target="_blank"} | Standard 4U rackmount enclosure<br>• *Provides 9 internal/external expansion bays for high-density storage layout* |
+| ![Chassis](https://m.media-amazon.com/images/I/51gSRzTWhfL._AC_SL1500_.jpg) | [Rosewill 4U Server Chassis 9 Bay Server Case](https://a.co/d/08OKxhuC){:target="_blank"} | Standard 4U rackmount enclosure<br>• *Provides 9 internal/external expansion bays for high-density storage layout* |
 | ![Motherboard](https://m.media-amazon.com/images/I/81vRmsbC+8L._AC_SL1500_.jpg) | [ASRock Rack Motherboard E3C236D4U](https://a.co/d/0bhX6TCu){:target="_blank"} | Enterprise Micro-ATX server board (Intel C236 chipset)<br>• *Features dual Gigabit LAN ports and native IPMI management* |
 | ![CPU](https://m.media-amazon.com/images/I/51r+fNqA8kL._AC_SL1000_.jpg) | [Intel Xeon E3-1275 v6 Quad-core Processor](https://a.co/d/02HQtHQC){:target="_blank"} | 4 Cores / 8 Threads, 3.80 GHz base clock (Kaby Lake)<br>• *Reliable computing power with integrated Intel HD Graphics P630* |
 | ![RAM](https://i.ebayimg.com/images/g/IuoAAOSwLNZkc0b3/s-l1600.jpg) | [Samsung 16GB 2X8GB PC4-2133P DDR4 ECC UDIMM](https://www.ebay.com/itm/404337073539){:target="_blank"} | 2133MHz unbuffered enterprise server memory<br>• *ECC error-correcting capabilities ensures high system uptime and data integrity* |
