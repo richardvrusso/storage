@@ -18,7 +18,7 @@
 [← Back to Main Homelab Hub](https://richardvrusso.github.io/homelab/)
 
 # unRAID Storage Server
-Running unRAID serving as a storage server for the homelab. In an emergency, it can host Docker and VMs.
+Running unRAID as a storage server for the homelab. In an emergency, it can host Docker and VMs.
 
 | Preview | Product Name | Component Specifications & Notes |
 | :---: | :--- | :--- |
